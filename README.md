@@ -5,6 +5,7 @@ I have tested this with an [Adafruit Circuit Playground Express](https://www.ada
 
 I recommending powering this with a USB [battery charger](http://www.amazon.com/Anker-Generation-Astro-mini-Lipstick-Sized/dp/B005X1Y7I2) or just plugging it into a USB wall socket adapter.
 
+## Flame colors
 You can also adjust some parameters of the sketch to easily tweak the fire effect.  Here, we are using an orange flame effect by default:
 ```cpp
 RGB flameColors[] = {
@@ -16,4 +17,5 @@ RGB flameColors[] = {
   };
 ```
 
+## Changing the flame color after it's powered on
 You can adjust what color is used by using the two main buttons on the circut playground to cycle through the color array when it's plugged in and has power.  It will always reset to the first item in the array when it's powered on (so if you want a different default color, just update the array to have your favorite color first).
