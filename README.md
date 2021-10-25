@@ -18,4 +18,6 @@ RGB flameColors[] = {
 ```
 
 ## Changing the flame color after it's powered on
+![Circuit playground buttons](https://cdn-learn.adafruit.com/assets/assets/000/047/172/medium640/circuit_playground_pushbutton.jpg)
+
 You can adjust what color is used by using the two main buttons on the circut playground to cycle through the color array when it's plugged in and has power.  It will always reset to the first item in the array when it's powered on (so if you want a different default color, just update the array to have your favorite color first).
