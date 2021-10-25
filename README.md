@@ -3,7 +3,7 @@ Spooky fire effect for Adafruit Circuit Playground
 
 I have tested this with an [Adafruit Circuit Playground Express](https://www.adafruit.com/product/3333)
 
-I recommending powering this with a USB [battery charger](http://www.amazon.com/Anker-Generation-Astro-mini-Lipstick-Sized/dp/B005X1Y7I2).
+I recommending powering this with a USB [battery charger](http://www.amazon.com/Anker-Generation-Astro-mini-Lipstick-Sized/dp/B005X1Y7I2) or just plugging it into a USB wall socket adapter.
 
 You can also adjust some parameters of the sketch to easily tweak the fire effect.  Here, we are using an orange flame effect by default:
 ```cpp
