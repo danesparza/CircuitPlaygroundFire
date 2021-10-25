@@ -1,7 +1,7 @@
 # CircuitPlaygroundFire
 Spooky fire effect for Adafruit Circuit Playground
 
-I have tested this with an [Adafruit Circuit Playground Express](https://www.adafruit.com/product/2590)
+I have tested this with an [Adafruit Circuit Playground Express](https://www.adafruit.com/product/3333)
 
 I recommending powering this with a USB [battery charger](http://www.amazon.com/Anker-Generation-Astro-mini-Lipstick-Sized/dp/B005X1Y7I2).
 
